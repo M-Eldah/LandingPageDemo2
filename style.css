@@ -1,0 +1,84 @@
+#hero {
+    height: 75svh;
+    width: 100%;
+    background-image: url(./imgs/hero-bg.jpg);
+  }
+
+  #hero button {
+    width: 20svh;
+    height: 5svh;
+  }
+
+  #hero a {
+    width: 20svh;
+    height: 5svh;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+  }
+
+  .cardcontent {
+    height: 20svh;
+  }
+
+  .ListIcon {
+    border-radius: 30px;
+    background-color: lightblue;
+    height: 10svh;
+    width: 5svh;
+    justify-content: center;
+    text-align: center;
+  }
+
+  .bx {
+    box-shadow: 1px 1px 10px 1px;
+    padding: 15px;
+    padding-top: 10px;
+    border-radius: 60px;
+    font-size: 3svh;
+    width: 60px;
+    height: 60px;
+    text-align: center;
+  }
+
+  .displayCard {
+    background-color: lightblue;
+    height: 10rem;
+    text-align: center;
+  }
+
+  .displayCardIcon {
+    position: absolute;
+    top: -20%;
+    font-size: 40px;
+    box-shadow: 1px 1px 10px 1px white;
+    border-radius: 60px;
+    width: 60px;
+    height: 60px;
+    background-color: white;
+  }
+
+  .displayCardSponser {
+    box-shadow: 0px 0px 0px 0px;
+    min-height: 190px;
+    border-radius: 0px;
+    align-items: center;
+    background-color: transparent;
+  }
+
+  .Testimonial {
+    width: 100px;
+    height: auto;
+    border-radius: 50%;
+  }
+  .portofilio{
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+  }
+  .small-header{
+    border-radius: 30px;  color: whitesmoke; background-color: lightskyblue;
+  }
+  h3>span{
+    color: blue;
+  }
